@@ -4,5 +4,8 @@
     <string name="app_name">Hazardandroid</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragmentttttttttttttttttttttttttttt</string>
+    <string name="path">Start -> Soda -> EnergyDrinks</string>
+    <string name="chocolate">Android chocolate bar</string>
 
 </resources>
